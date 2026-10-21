@@ -1,0 +1,8 @@
+Project: Student Management System
+Version: 1.0
+
+Specifications:
+
+1. The system shall allow an administrator to add student records.
+2. The system shall store each student's name and roll number.
+3. The system shall allow the administrator to view student records.
